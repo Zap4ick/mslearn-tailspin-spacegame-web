@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/zap4ick/Space%20Game%20-%20web%20-%20Delivery%20plans/_apis/build/status/Zap4ick.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/zap4ick/Space%20Game%20-%20web%20-%20Delivery%20plans/_build/latest?definitionId=1&branchName=build-pipeline)
 
 # Contributing
 
